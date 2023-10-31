@@ -1,0 +1,179 @@
+拉库地址：
+Faker2：
+
+ql repo https://git.metauniverse-cn.com/https://github.com/shufflewzc/faker3.git "jd_|jx_|gua_|jddj_|jdCookie" "activity|backUp" "^jd[^_]|USER|function|utils|sendNotify|ZooFaker_Necklace.js|JDJRValidator_|sign_graphics_validate|ql|JDSignValidator|magic|depend|h5sts" "main"
+
+船长
+
+ql repo https://github.com/HarbourJ/HarbourToulu.git "jd_" "activity|backUp|jd_sign" "^jd[^_]|USER|utils|ZooFaker_Necklace|JDJRValidator_|sign_graphics_validate|jddj_cookie|function|ql|magic|JDJR|JD|sendNotify" "main"
+
+KR
+
+ql repo https://github.com/KingRan/KR.git "jd_|jx_|jdCookie" "activity|backUp" "^jd[^_]|USER|utils|function|sign|sendNotify|ql|JDJR"
+
+统一定时规则：
+12 8 * * *
+
+
+
+
+环境变量区
+
+xinruimz	true
+
+opencard_addCart	true
+
+opencard_draw	true
+
+JD_PAY_CONTRACT		true
+
+morningScPins 	京东大号pt_pin=一直到；号结束
+
+JD_TRY	true
+
+JD_CART_REMOVE		true
+
+mpdzHelp    设置头文字助力
+
+isCashOut  true
+
+isCommentPic true
+
+
+配置文件区
+export ec_fix_dep="true"
+export ec_re_dep="true"
+export DY_WASHBEANS="true"
+
+##偷豆豆的大舅哥整合
+
+export jd_shopLeagueId="dz60a95fce4627a9824f5a7581shop"
+export LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/8772059?activityId=d12abb777111446286d064c16ccc10db"
+export jd_lzkj_loreal_draw_url="https://lzkj-isv.isvjcloud.com/prod/cc/interactsaas/index?activityType=10026&templateId=20210518190900jfcj011&activityId=1697158365872295938"
+export DPCJID="199514&1000365002&11384330&1000104643&1000090063&10227411&1000407945&638588&1000123964"
+export jd_drawCenter_activityId="cb1f4ccfc2534425bbf15660ede368b2"
+export jd_zdjr_activityId="2c0c5ec443294c51b86371d7b0222664"
+export jd_zdjr_activityUrl="https://lzkjdz-isv.isvjcloud.com"
+export jd_cjhy_activityId="5e485bdb9ae24754af5767ddb83a7218"
+export jd_cjhy_activityUrl="https://cjhydz-isv.isvjcloud.com"
+export jd_lzkj_loreal_cart_url="https://lzkj-isv.isvjcloud.com/prod/cc/interactsaas/index?activityType=10039&templateId=20210518190900jzscr011&activityId=1702208819806277633&nodeId=101001039&prd=cjwx&shareuserid4minipg=Ia5PP8QG3E9m 6RaAo3sd/kaL5GGqMTUc8u/otw2E a7Ak3lgFoFQlZmf45w8Jzw&shopid=1000003015"
+export jd_wxCollectCard_activityId="e7129dbbc3524d7690ee75ad15ed9497"
+export jd_shop_draw_ids="199514&1000365002&11384330&1000104643&1000090063&10227411&1000407945&638588&1000123964"
+export jd_lzkj_loreal_daySign_url="https://lzkj-isv.isvjcloud.com/prod/cc/interactsaas/index?activityType=10023&templateId=20210518190900rlqd011&activityId=1696432821162020866"
+export jd_wxCollectionActivity_activityUrl="https://cjhy-isv.isvjcloud.com/wxCollectionActivity/activity?activityId=629a0207838b4345ba5834f9ac93303d"
+export jd_pointExgBeans_activityUrl="https://cjhy-isv.isvjcloud.com/mc/wxPointShopView/pointExgBeans?venderId=1000002668&giftId=f595d44968524008bd520dd3d22d8439"
+export jd_joinCommonId="8036fbc67e784f81a807034147c21dc4&1000002672"
+export jd_cart_item_activityUrl="https://txzj-isv.isvjcloud.com/cart_item/home?a=TDhhSWhCMllrcVdRZUx0djFR"
+export jd_wxShopFollowActivity_activityUrl="https://lzkj-isv.isvjd.com/wxShopFollowActivity/activity/activity?activityId=b060eede0ffd483db0c94fd80ffd5fc1"
+export jd_lzkj_loreal_lkFollowShop_url="https://lzkj-isv.isvjcloud.com/prod/cc/interactsaas/index?activityType=10039&templateId=20210518190900jzscr011&activityId=1702208819806277633&nodeId=101001039&prd=cjwx&shareuserid4minipg=Ia5PP8QG3E9m"
+export jd_wxCartKoi_activityId="534ea4b8707c443d933e130712fab004"
+export jd_wxShareActivity_activityId="9656448ba7ad4e908c8218dc0764a807"
+export jd_wxBuildActivity_activityId="0ca2e538f7d1484da143d6a02d560db6"
+export jd_collect_shop_activityUrl="https://txzj-isv.isvjcloud.com/collect_shop/home?a=TXdhdzNCYUdMTkNTMmlKVVZn"
+export jd_lzkj_loreal_upperSign_url="https://lzkj-isv.isvjcloud.com/prod/cc/interactsaas/index?activityType=10039&templateId=20210518190900jzscr011&activityId=1702208819806277633&nodeId=101001039&prd=cjwx&shareuserid4minipg=Ia5PP8QG3E9m"
+export jd_lzkj_loreal_sign_url="https://lzkj-isv.isvjcloud.com/prod/cc/interactsaas/index?activityType=10001&templateId=20201228083300ljqdcj011&activityId=1698965822375632897"
+##偷豆豆的大舅哥整合
+export jd_lzkj_loreal_invite_url="https://lzkj-isv.isvjcloud.com/prod/cc/interactsaas/index?activityType=10033&activityId=1701046053987065857&templateId=2021062190900zdgf081&nodeId=101001&prd=cjwx"
+export jd_cjhydz_wxTeam_Id="d2147cbb51064225bba1a7194b04867c"
+export jd_lzkj_loreal_followGoods_url="https://lzkj-isv.isvjcloud.com/prod/cc/interactsaas/index?activityType=10063&activityId=1701134472217423873&templateId=20210824190900ffl011&nodeId=101001063&prd=cjwx"
+export jd_wxShopGiftId="ac4c4fd78c164e6dbbff5ae899e381b8"
+export jd_wxKnowledgeActivity_activityUrl="https://cjhy-isv.isvjcloud.com/wxKnowledgeActivity/activity?activityId=d1bfec1533f14b22a30ff06456d14570"
+export jd_lottery_activityUrl="https://txzj-isv.isvjcloud.com/lottery/home?a=RFdkWG9zSkhGbnYwK1ZpNVRn"
+export jd_lzkj_wxShopGift_ids="f08ec64ae1c040aa8814333662946d54"
+export jd_wxgame_activityId="f9f9355f76314e669983f28f4828ea97"
+export VENDER_ID="1000467596"
+export jd_wxSecond_activityId="af0c01f7eb5b48a08c11b2a8a8e36840"
+export jd_wxFansInterActionActivity_activityId="a3452f5da61649efa42953a9d3370127"
+export jd_fxyl_activityId="9dbb819009924f769065436f3504f648"
+export jd_completeInfoActivity_venderId="751232"
+export jd_completeInfoActivity_activityId="35327d99993f4791870404b2b915cad9"
+export jd_wxMcLevelAndBirthGifts_activityId="3eb9d17445e94c9390688f735d31c0ca"
+export jd_wxTeam_activityUrl="https://cjhydz-isv.isvjcloud.com/wxTeam/activity?activityId=54f4ed5d3fd1412dacd1ff9f94196c89"
+export WXGAME_ACT_ID="xxx"
+export LZKJ_SIGN="b6ad701d74284d4284f13b1faf8b88af"
+export M_FOLLOW_SHOP_ARGV="1000453623_1000453623"
+export jd_loreal_interact_ljqdysl_Ids="xxx"
+export JD_Lottery_cart="7808ced380994f7e9ffcb84b43ef47e5"
+export jd_cjhy_wxCollectionActivityId="e215d529eae34539af8fc1e1a1c475a"
+export jd_lzkj_wxCollectionActivityId="47b0d1a4f4fe474db598c15d050794d3"
+export jd_wxShopGift_activityUrl="https://lzkj-isv.isvjcloud.com/wxShopGift/activity?activityId=f7c91c017c3f4d20a8e7ced558437db7"
+export M_WX_TEAM_URL="https://lzkj-isv.isvjcloud.com/prod/cc/interactsaas/index?activityType=10039&templateId=20210518190900jzscr011&activityId=1702208819806277633&nodeId=101001039&prd=cjwx&shareuserid4minipg=Ia5PP8QG3E9m"
+export jd_lzkj_interactsaas_jgyl_activityId="1692481889507524610"
+##偷豆豆的大舅哥整合
+export DO_TEN_WATER_AGAIN="1"
+export jd_lzkj_interactsaas_gzyl_activityId="1694628308110929921"
+export jd_drawShopGift_argv="1000411104_1000411104"
+export jd_lzkj_loreal_share_url="https://lzkj-isv.isvjcloud.com/prod/cc/interactsaas/index?activityType=10039&templateId=20210518190900jzscr011&activityId=1702208819806277633&nodeId=101001039&prd=cjwx&shareuserid4minipg=Ia5PP8QG3E9m"
+export jd_cjhy_wxGameActivity_activityId="80f07c94bb7e43e884cc7e36a3b10e5a"
+export jd_sevenDay_activityUrl="https://cjhy-isv.isvjcloud.com/sign/signActivity?activityId=3eb8b4eebfd041d390fb94be0b16995f&venderId=63461"
+export CJHY_SIGN="3eb8b4eebfd041d390fb94be0b16995f"
+export jd_cjhy_signActivity_ids="3eb8b4eebfd041d390fb94be0b16995f"
+export jd_lzkj_loreal_perfectInfo_url="https://lzkj-isv.isvjcloud.com/prod/cc/interactsaas/index?activityType=10039&templateId=20210518190900jzscr011&activityId=1702208819806277633&nodeId=101001039&prd=cjwx&shareuserid4minipg=Ia5PP8QG3E9m"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+依赖区
+
+Node.js区
+
+crypto-js
+prettytable
+dotenv
+jsdom
+date-fns
+tough-cookie
+tslib
+ws@7.4.3
+ts-md5
+jsdom -g
+jieba
+fs
+ds
+form-data
+json5
+global-agent
+png-js
+@types/node
+require
+js-base64
+axios
+redis
+jd_sign
+date-fns
+moment
+map
+
+
+
+Python3区
+
+requests
+canvas
+ping3
+jieba
+jd_sign
+redis
+jd_sign.so
+
+
+
+liunx区
+
+bizCode
+bizMsg
+iRet
+lxml
+jd_sign.so
